@@ -9,5 +9,3 @@ probably not
 ## Hide super secret messages within images using this
 
 * Run according binaries `main_encrypt` to cypher or `main_decrypt` decypher a message  
-* Make sure you are in the same directory as the image
-
