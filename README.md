@@ -8,5 +8,6 @@ probably not
 
 ## Hide super secret messages within images using this
 
-Run according shell scripts to cypher or decypher a message  
-If you get a segfault it's because you probably typed in the file name wrong  
+* Run according binaries `main_encrypt` to cypher or `main_decrypt` decypher a message  
+* Make sure you are in the same directory as the image
+
